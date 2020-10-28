@@ -1,6 +1,6 @@
 # The-NextCars
-Aplikasi ini berisi tampilan dashboard atau kemudi pada mobil masa depan dengan konsep MVC.
-pada tampilan dashboard, tombol started dapat dipencet ketika pintu sudah tertutup serta terkunci dan mesin atau power dalam keadaan on power.
+Aplikasi ini berisi tampilan dashboard atau kemudi pada mobil masa depan dengan konsep MVC. 
+Pada tampilan dashboard, tombol started dapat dipencet ketika pintu sudah tertutup serta terkunci dan mesin atau power dalam keadaan on power.
 
 # Scope & Functionalities
 
@@ -81,4 +81,5 @@ logika power ada pada `Accubattery.cs`
             return this.stateOn;
         }
 ```
-
+```
+Terimakasih 😃
